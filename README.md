@@ -83,25 +83,4 @@ Result-driven analytics professional with over 6 years of expertise in data anal
 
 ---
 
-### Repository Structure
-
-1. **Notebooks**:
-    - `customer_funnel_analysis.ipynb`
-    - `cohort_analysis.ipynb`
-    - `sales_purchase_classification.ipynb`
-
-2. **Scripts**:
-    - `predictive_modeling.py`
-    - `churn_prediction.py`
-
-3. **Datasets**:
-    - `customer_data.csv`
-    - `sales_data.csv`
-
-4. **Documentation**:
-    - `README.md`
-    - `project_reports/`
-
----
-
 Feel free to explore the repository and reach out if you have any questions or suggestions!
