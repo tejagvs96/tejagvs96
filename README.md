@@ -1,5 +1,8 @@
-# Hello there, this is Venkata Sai Teja Gangumalla
+# Data Analytics Portfolio
 
+![Venkata Sai Teja Gangumalla](images/sai teja passport size pic.jpg)
+
+## Venkata Sai Teja Gangumalla
 [Email](mailto:gvsaiteja96@gmail.com) | [LinkedIn](https://linkedin.com/in/venkata-sai-teja)
 
 ---
