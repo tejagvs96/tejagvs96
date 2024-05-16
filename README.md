@@ -1,6 +1,5 @@
-# Data Analytics Portfolio
+# Hello there, this is Venkata Sai Teja Gangumalla
 
-## Venkata Sai Teja Gangumalla
 [Email](mailto:gvsaiteja96@gmail.com) | [LinkedIn](https://linkedin.com/in/venkata-sai-teja)
 
 ---
